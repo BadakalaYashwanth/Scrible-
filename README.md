@@ -4,6 +4,9 @@
 
 Scrible is an AI-powered digital notebook that lets you upload, organize, and interact with your own knowledge sources — generating source-grounded summaries, Q&A answers, timelines, FAQs, and audio overviews in a “podcast” style, all from your own content.
 
+#
+<img width="1018" height="695" alt="Image" src="https://github.com/user-attachments/assets/a56f084d-cee7-4f54-99cd-59f4dd956286" />
+
 ---
 
 ## 🚀 Live Demo
